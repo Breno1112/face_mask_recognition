@@ -3,9 +3,10 @@ import cv2
 import random
 from os import listdir
 
-face_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_frontalface_default.xml')
-eye_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_eye.xml')
-mouth_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_mcs_mouth.xml')
+# face_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_frontalface_default.xml')
+# eye_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_eye.xml')
+# mouth_cascade = cv2.CascadeClassifier('opencv-files/haarcascade_mcs_mouth.xml')
+mask_cascade = cv2.CascadeClassifier('opencv-files/mask_cascade.xml')
 
 CONST_FACE_NOT_FOUND = "ROSTO NAO ENCONTRADO"
 CONST_WITHOUT_MASK = "SEM MASCARA"
@@ -31,34 +32,54 @@ def classify(img):
     (thresh, black_and_white) = cv2.threshold(gray, bw_threshold, 255, cv2.THRESH_BINARY)
 
     # detect face
-    faces = face_cascade.detectMultiScale(gray, 1.1, 4)
+    # faces = face_cascade.detectMultiScale(gray, 1.1, 4)
 
     # Face prediction for black and white
-    faces_bw = face_cascade.detectMultiScale(black_and_white, 1.1, 4)
+    # faces_bw = face_cascade.detectMultiScale(black_and_white, 1.1, 4)
 
     # Eye prediction
-    eyes = eye_cascade.detectMultiScale(gray, 1.1, 4)
+    # eyes = eye_cascade.detectMultiScale(gray, 1.1, 4)
 
     # Eye prediction for black and white
-    eyes_bw = eye_cascade.detectMultiScale(black_and_white, 1.1, 4)
+    # eyes_bw = eye_cascade.detectMultiScale(black_and_white, 1.1, 4)
 
     # Mouth prediction
-    mouth_rects = mouth_cascade.detectMultiScale(gray, 1.5, 5)
+    # mouth_rects = mouth_cascade.detectMultiScale(gray, 1.5, 5)
 
     # Mouth prediction black and white
-    mouth_rects_bw = mouth_cascade.detectMultiScale(black_and_white, 1.5, 5)
+    # mouth_rects_bw = mouth_cascade.detectMultiScale(black_and_white, 1.5, 5)
 
-    if len(eyes) == 0 and len(eyes_bw) == 0 and len(faces) == 0 and len(faces_bw) == 0:
-        return CONST_FACE_NOT_FOUND
-    elif len(eyes) > 0 or len(eyes_bw) > 0:
-        if len(mouth_rects) > 0 or len(mouth_rects_bw) > 0:
-            return CONST_WITHOUT_MASK
-        else:
-            return CONST_WITH_MASK
-    elif len(faces) > 0 or len(faces_bw) > 0:
-        return CONST_WITHOUT_MASK
+    # Mask prediction
+    mask_rects = mask_cascade.detectMultiScale(gray, 1.5, 5)
+
+    # Mask prediction black and white
+    mask_rects_bw = mask_cascade.detectMultiScale(black_and_white, 1.5, 5)
+
+    print("mask_rects: {}".format(mask_rects))
+    print("mask_rects_bw: {}".format(mask_rects_bw))
+
+    if len(mask_rects) > 0 or len(mask_rects_bw) > 0:
+        if len(mask_rects) > 0:
+            (x, y, w, h) = mask_rects[0]
+            cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
+        elif len(mask_rects_bw) > 0:
+            (x, y, w, h) = mask_rects_bw[0]
+            cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
+        return "MASK FOUND"
     else:
-        return CONST_FACE_NOT_FOUND
+        return "NO MASK FOUND"
+
+    # if len(eyes) == 0 and len(eyes_bw) == 0 and len(faces) == 0 and len(faces_bw) == 0:
+    #     return CONST_FACE_NOT_FOUND
+    # elif len(eyes) > 0 or len(eyes_bw) > 0:
+    #     if len(mouth_rects) > 0 or len(mouth_rects_bw) > 0:
+    #         return CONST_WITHOUT_MASK
+    #     else:
+    #         return CONST_WITH_MASK
+    # elif len(faces) > 0 or len(faces_bw) > 0:
+    #     return CONST_WITHOUT_MASK
+    # else:
+    #     return CONST_FACE_NOT_FOUND
 
 def detectSingleImage(imgPath):
     img = cv2.imread(imgPath)
@@ -108,6 +129,6 @@ def getAccuracy():
     accuracy = ((len(without_mask)/without_mask_count) + (len(with_mask)/with_mask_count))/0.02
     print("Acurácia: {:.2f}%".format(accuracy))
 
-# detectSingleImage("test-data/with_mask/francisquinho.png")
+detectSingleImage("test-data/with_mask/francisquinho.png")
 # detectVideo()
-getAccuracy()
+# getAccuracy()
