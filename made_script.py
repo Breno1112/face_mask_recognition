@@ -65,9 +65,9 @@ def classify(img):
         elif len(mask_rects_bw) > 0:
             (x, y, w, h) = mask_rects_bw[0]
             cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
-        return "MASK FOUND"
+        return CONST_WITH_MASK
     else:
-        return "NO MASK FOUND"
+        return CONST_WITHOUT_MASK
 
     # if len(eyes) == 0 and len(eyes_bw) == 0 and len(faces) == 0 and len(faces_bw) == 0:
     #     return CONST_FACE_NOT_FOUND
