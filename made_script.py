@@ -55,7 +55,7 @@ def classify(img):
             return CONST_WITHOUT_MASK
         else:
             return CONST_WITH_MASK
-    elif len(faces > 0) or len(faces_bw) > 0:
+    elif len(faces) > 0 or len(faces_bw) > 0:
         return CONST_WITHOUT_MASK
     else:
         return CONST_FACE_NOT_FOUND
