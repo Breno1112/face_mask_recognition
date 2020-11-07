@@ -114,8 +114,8 @@ def getAccuracy():
     # without_mask_count = len(listdir("test-data/without_mask"))
     with_mask = []
     without_mask = []
-    print(with_mask_count)
-    print(without_mask_count)
+    print("test files with mask: {}".format(with_mask_count))
+    print("test files without mask: {}".format(without_mask_count))
     for imagePath in listdir("opencv-files/positive"):
         response = classify(cv2.imread("opencv-files/positive/{}".format(imagePath)))
     # for imagePath in listdir("test-data/with_mask"):

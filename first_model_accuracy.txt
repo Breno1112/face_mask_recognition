@@ -1,0 +1,463 @@
+test files with mask: 220
+test files without mask: 220
+image_0.png: COM MASCARA
+image_1.png: SEM MASCARA
+image_10.png: SEM MASCARA
+image_100.png: COM MASCARA
+image_101.png: ROSTO NAO ENCONTRADO
+image_102.png: SEM MASCARA
+image_103.png: SEM MASCARA
+image_104.png: SEM MASCARA
+image_105.png: COM MASCARA
+image_106.png: SEM MASCARA
+image_107.png: COM MASCARA
+image_108.png: COM MASCARA
+image_109.png: SEM MASCARA
+image_11.png: SEM MASCARA
+image_110.png: SEM MASCARA
+image_111.png: SEM MASCARA
+image_112.png: COM MASCARA
+image_113.png: SEM MASCARA
+image_114.png: COM MASCARA
+image_115.png: SEM MASCARA
+image_116.png: COM MASCARA
+image_117.png: SEM MASCARA
+image_118.png: COM MASCARA
+image_119.png: COM MASCARA
+image_12.png: SEM MASCARA
+image_120.png: COM MASCARA
+image_121.png: SEM MASCARA
+image_122.png: SEM MASCARA
+image_123.png: ROSTO NAO ENCONTRADO
+image_124.png: COM MASCARA
+image_125.png: SEM MASCARA
+image_126.png: COM MASCARA
+image_127.png: COM MASCARA
+image_128.png: COM MASCARA
+image_129.png: SEM MASCARA
+image_13.png: SEM MASCARA
+image_130.png: COM MASCARA
+image_131.png: COM MASCARA
+image_132.png: COM MASCARA
+image_133.png: SEM MASCARA
+image_134.png: COM MASCARA
+image_135.png: SEM MASCARA
+image_136.png: COM MASCARA
+image_137.png: COM MASCARA
+image_138.png: COM MASCARA
+image_139.png: SEM MASCARA
+image_14.png: COM MASCARA
+image_140.png: COM MASCARA
+image_141.png: ROSTO NAO ENCONTRADO
+image_142.png: COM MASCARA
+image_143.png: ROSTO NAO ENCONTRADO
+image_144.png: COM MASCARA
+image_145.png: SEM MASCARA
+image_146.png: SEM MASCARA
+image_147.png: COM MASCARA
+image_148.png: COM MASCARA
+image_149.png: ROSTO NAO ENCONTRADO
+libpng warning: iCCP: known incorrect sRGB profile
+image_15.png: COM MASCARA
+image_150.png: COM MASCARA
+image_151.png: COM MASCARA
+image_152.png: SEM MASCARA
+image_153.png: COM MASCARA
+image_154.png: COM MASCARA
+image_155.png: COM MASCARA
+image_156.png: COM MASCARA
+image_157.png: ROSTO NAO ENCONTRADO
+image_158.png: COM MASCARA
+image_159.png: COM MASCARA
+image_16.png: SEM MASCARA
+image_160.png: SEM MASCARA
+image_161.png: COM MASCARA
+image_162.png: SEM MASCARA
+image_163.png: COM MASCARA
+image_164.png: SEM MASCARA
+image_165.png: COM MASCARA
+image_166.png: SEM MASCARA
+image_167.png: COM MASCARA
+image_168.png: ROSTO NAO ENCONTRADO
+image_169.png: ROSTO NAO ENCONTRADO
+image_17.png: SEM MASCARA
+image_170.png: COM MASCARA
+image_171.png: COM MASCARA
+image_172.png: ROSTO NAO ENCONTRADO
+image_173.png: COM MASCARA
+image_174.png: COM MASCARA
+image_175.png: COM MASCARA
+image_176.png: ROSTO NAO ENCONTRADO
+image_177.png: ROSTO NAO ENCONTRADO
+image_178.png: SEM MASCARA
+image_179.png: SEM MASCARA
+image_18.png: SEM MASCARA
+image_180.png: SEM MASCARA
+image_181.png: SEM MASCARA
+image_182.png: SEM MASCARA
+image_183.png: COM MASCARA
+image_184.png: COM MASCARA
+image_185.png: COM MASCARA
+image_186.png: ROSTO NAO ENCONTRADO
+image_187.png: COM MASCARA
+image_188.png: COM MASCARA
+image_189.png: SEM MASCARA
+image_19.png: COM MASCARA
+image_190.png: COM MASCARA
+image_191.png: COM MASCARA
+image_192.png: ROSTO NAO ENCONTRADO
+image_193.png: ROSTO NAO ENCONTRADO
+image_194.png: ROSTO NAO ENCONTRADO
+image_195.png: COM MASCARA
+image_196.png: ROSTO NAO ENCONTRADO
+image_197.png: COM MASCARA
+image_198.png: ROSTO NAO ENCONTRADO
+image_199.png: COM MASCARA
+image_2.png: COM MASCARA
+image_20.png: COM MASCARA
+image_200.png: COM MASCARA
+image_201.png: SEM MASCARA
+image_202.png: COM MASCARA
+image_203.png: COM MASCARA
+image_204.png: SEM MASCARA
+image_205.png: ROSTO NAO ENCONTRADO
+image_206.png: SEM MASCARA
+image_207.png: SEM MASCARA
+image_208.png: SEM MASCARA
+image_209.png: SEM MASCARA
+image_21.png: SEM MASCARA
+image_210.png: SEM MASCARA
+image_211.png: COM MASCARA
+image_212.png: COM MASCARA
+image_213.png: COM MASCARA
+image_214.png: COM MASCARA
+image_215.png: COM MASCARA
+image_216.png: ROSTO NAO ENCONTRADO
+image_217.png: COM MASCARA
+image_218.png: COM MASCARA
+image_219.png: SEM MASCARA
+image_22.png: SEM MASCARA
+image_23.png: COM MASCARA
+image_24.png: COM MASCARA
+image_25.png: SEM MASCARA
+image_26.png: SEM MASCARA
+image_27.png: ROSTO NAO ENCONTRADO
+image_28.png: SEM MASCARA
+image_29.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_3.png: COM MASCARA
+image_30.png: COM MASCARA
+image_31.png: SEM MASCARA
+image_32.png: SEM MASCARA
+image_33.png: COM MASCARA
+image_34.png: SEM MASCARA
+image_35.png: COM MASCARA
+image_36.png: SEM MASCARA
+image_37.png: SEM MASCARA
+image_38.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_39.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_4.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_40.png: COM MASCARA
+image_41.png: SEM MASCARA
+image_42.png: SEM MASCARA
+image_43.png: SEM MASCARA
+image_44.png: SEM MASCARA
+image_45.png: COM MASCARA
+image_46.png: COM MASCARA
+image_47.png: SEM MASCARA
+image_48.png: COM MASCARA
+image_49.png: SEM MASCARA
+image_5.png: COM MASCARA
+image_50.png: SEM MASCARA
+image_51.png: ROSTO NAO ENCONTRADO
+image_52.png: COM MASCARA
+image_53.png: SEM MASCARA
+image_54.png: SEM MASCARA
+image_55.png: COM MASCARA
+image_56.png: SEM MASCARA
+image_57.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_58.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_59.png: SEM MASCARA
+image_6.png: COM MASCARA
+image_60.png: SEM MASCARA
+image_61.png: COM MASCARA
+image_62.png: SEM MASCARA
+image_63.png: COM MASCARA
+image_64.png: SEM MASCARA
+image_65.png: COM MASCARA
+image_66.png: COM MASCARA
+image_67.png: SEM MASCARA
+image_68.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_69.png: SEM MASCARA
+image_7.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_70.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_71.png: COM MASCARA
+image_72.png: SEM MASCARA
+image_73.png: COM MASCARA
+image_74.png: ROSTO NAO ENCONTRADO
+image_75.png: COM MASCARA
+image_76.png: SEM MASCARA
+image_77.png: ROSTO NAO ENCONTRADO
+image_78.png: SEM MASCARA
+image_79.png: COM MASCARA
+image_8.png: SEM MASCARA
+image_80.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_81.png: COM MASCARA
+image_82.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_83.png: COM MASCARA
+image_84.png: SEM MASCARA
+image_85.png: SEM MASCARA
+image_86.png: COM MASCARA
+image_87.png: COM MASCARA
+image_88.png: SEM MASCARA
+image_89.png: COM MASCARA
+image_9.png: SEM MASCARA
+image_90.png: COM MASCARA
+image_91.png: SEM MASCARA
+image_92.png: COM MASCARA
+image_93.png: COM MASCARA
+image_94.png: COM MASCARA
+image_95.png: SEM MASCARA
+image_96.png: SEM MASCARA
+image_97.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_98.png: COM MASCARA
+image_99.png: SEM MASCARA
+image_0.png: SEM MASCARA
+image_1.png: SEM MASCARA
+image_10.png: SEM MASCARA
+image_100.png: SEM MASCARA
+image_101.png: SEM MASCARA
+image_102.png: SEM MASCARA
+image_103.png: SEM MASCARA
+image_104.png: COM MASCARA
+image_105.png: SEM MASCARA
+image_106.png: SEM MASCARA
+image_107.png: SEM MASCARA
+image_108.png: SEM MASCARA
+image_109.png: SEM MASCARA
+image_11.png: SEM MASCARA
+image_110.png: SEM MASCARA
+image_111.png: COM MASCARA
+image_112.png: SEM MASCARA
+image_113.png: SEM MASCARA
+image_114.png: SEM MASCARA
+image_115.png: SEM MASCARA
+image_116.png: SEM MASCARA
+image_117.png: SEM MASCARA
+image_118.png: SEM MASCARA
+image_119.png: SEM MASCARA
+image_12.png: SEM MASCARA
+image_120.png: SEM MASCARA
+image_121.png: SEM MASCARA
+image_122.png: SEM MASCARA
+image_123.png: SEM MASCARA
+image_124.png: SEM MASCARA
+image_125.png: SEM MASCARA
+image_126.png: SEM MASCARA
+image_127.png: SEM MASCARA
+image_128.png: SEM MASCARA
+image_129.png: SEM MASCARA
+image_13.png: SEM MASCARA
+image_130.png: SEM MASCARA
+image_131.png: SEM MASCARA
+image_132.png: SEM MASCARA
+image_133.png: SEM MASCARA
+image_134.png: SEM MASCARA
+image_135.png: SEM MASCARA
+image_136.png: SEM MASCARA
+image_137.png: SEM MASCARA
+image_138.png: SEM MASCARA
+image_139.png: SEM MASCARA
+image_14.png: SEM MASCARA
+image_140.png: SEM MASCARA
+image_141.png: SEM MASCARA
+image_142.png: SEM MASCARA
+image_143.png: COM MASCARA
+image_144.png: SEM MASCARA
+image_145.png: SEM MASCARA
+image_146.png: SEM MASCARA
+image_147.png: SEM MASCARA
+image_148.png: SEM MASCARA
+image_149.png: SEM MASCARA
+image_15.png: SEM MASCARA
+image_150.png: COM MASCARA
+image_151.png: SEM MASCARA
+image_152.png: SEM MASCARA
+image_153.png: SEM MASCARA
+image_154.png: SEM MASCARA
+image_155.png: SEM MASCARA
+image_156.png: SEM MASCARA
+image_157.png: SEM MASCARA
+image_158.png: SEM MASCARA
+image_159.png: SEM MASCARA
+image_16.png: SEM MASCARA
+image_160.png: SEM MASCARA
+image_161.png: SEM MASCARA
+image_162.png: SEM MASCARA
+image_163.png: COM MASCARA
+image_164.png: SEM MASCARA
+image_165.png: SEM MASCARA
+image_166.png: SEM MASCARA
+image_167.png: SEM MASCARA
+image_168.png: COM MASCARA
+image_169.png: SEM MASCARA
+image_17.png: SEM MASCARA
+image_170.png: SEM MASCARA
+image_171.png: SEM MASCARA
+image_172.png: SEM MASCARA
+image_173.png: SEM MASCARA
+image_174.png: SEM MASCARA
+image_175.png: SEM MASCARA
+image_176.png: SEM MASCARA
+image_177.png: SEM MASCARA
+image_178.png: SEM MASCARA
+image_179.png: SEM MASCARA
+image_18.png: SEM MASCARA
+image_180.png: SEM MASCARA
+image_181.png: SEM MASCARA
+image_182.png: SEM MASCARA
+image_183.png: SEM MASCARA
+image_184.png: SEM MASCARA
+image_185.png: SEM MASCARA
+image_186.png: SEM MASCARA
+image_187.png: SEM MASCARA
+image_188.png: ROSTO NAO ENCONTRADO
+image_189.png: SEM MASCARA
+image_19.png: SEM MASCARA
+image_190.png: SEM MASCARA
+image_191.png: SEM MASCARA
+image_192.png: SEM MASCARA
+image_193.png: SEM MASCARA
+image_194.png: SEM MASCARA
+image_195.png: SEM MASCARA
+image_196.png: SEM MASCARA
+image_197.png: SEM MASCARA
+image_198.png: ROSTO NAO ENCONTRADO
+image_199.png: SEM MASCARA
+image_2.png: COM MASCARA
+image_20.png: SEM MASCARA
+image_200.png: SEM MASCARA
+image_201.png: SEM MASCARA
+image_202.png: SEM MASCARA
+image_203.png: SEM MASCARA
+image_204.png: SEM MASCARA
+image_205.png: SEM MASCARA
+image_206.png: SEM MASCARA
+image_207.png: SEM MASCARA
+image_208.png: SEM MASCARA
+image_209.png: SEM MASCARA
+image_21.png: SEM MASCARA
+image_210.png: COM MASCARA
+image_211.png: SEM MASCARA
+image_212.png: SEM MASCARA
+image_213.png: SEM MASCARA
+image_214.png: SEM MASCARA
+image_215.png: SEM MASCARA
+image_216.png: SEM MASCARA
+image_217.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_218.png: SEM MASCARA
+image_219.png: SEM MASCARA
+image_22.png: SEM MASCARA
+image_23.png: SEM MASCARA
+image_24.png: SEM MASCARA
+image_25.png: SEM MASCARA
+image_26.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_27.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+image_28.png: SEM MASCARA
+image_29.png: SEM MASCARA
+image_3.png: SEM MASCARA
+image_30.png: SEM MASCARA
+image_31.png: SEM MASCARA
+image_32.png: SEM MASCARA
+image_33.png: SEM MASCARA
+image_34.png: SEM MASCARA
+image_35.png: SEM MASCARA
+image_36.png: SEM MASCARA
+image_37.png: SEM MASCARA
+image_38.png: SEM MASCARA
+image_39.png: SEM MASCARA
+image_4.png: COM MASCARA
+image_40.png: SEM MASCARA
+image_41.png: SEM MASCARA
+image_42.png: SEM MASCARA
+image_43.png: SEM MASCARA
+image_44.png: SEM MASCARA
+image_45.png: SEM MASCARA
+image_46.png: SEM MASCARA
+image_47.png: SEM MASCARA
+image_48.png: SEM MASCARA
+image_49.png: SEM MASCARA
+image_5.png: SEM MASCARA
+image_50.png: SEM MASCARA
+image_51.png: SEM MASCARA
+image_52.png: SEM MASCARA
+image_53.png: SEM MASCARA
+image_54.png: COM MASCARA
+image_55.png: SEM MASCARA
+image_56.png: COM MASCARA
+image_57.png: SEM MASCARA
+image_58.png: SEM MASCARA
+image_59.png: SEM MASCARA
+image_6.png: SEM MASCARA
+image_60.png: SEM MASCARA
+image_61.png: SEM MASCARA
+image_62.png: SEM MASCARA
+image_63.png: SEM MASCARA
+image_64.png: SEM MASCARA
+image_65.png: COM MASCARA
+image_66.png: SEM MASCARA
+image_67.png: SEM MASCARA
+image_68.png: SEM MASCARA
+image_69.png: SEM MASCARA
+image_7.png: SEM MASCARA
+image_70.png: SEM MASCARA
+image_71.png: SEM MASCARA
+image_72.png: SEM MASCARA
+image_73.png: SEM MASCARA
+image_74.png: SEM MASCARA
+image_75.png: SEM MASCARA
+image_76.png: SEM MASCARA
+image_77.png: SEM MASCARA
+image_78.png: SEM MASCARA
+image_79.png: SEM MASCARA
+image_8.png: SEM MASCARA
+image_80.png: SEM MASCARA
+image_81.png: SEM MASCARA
+image_82.png: SEM MASCARA
+image_83.png: SEM MASCARA
+image_84.png: COM MASCARA
+image_85.png: SEM MASCARA
+image_86.png: SEM MASCARA
+image_87.png: SEM MASCARA
+image_88.png: SEM MASCARA
+image_89.png: SEM MASCARA
+image_9.png: SEM MASCARA
+image_90.png: SEM MASCARA
+image_91.png: SEM MASCARA
+image_92.png: SEM MASCARA
+image_93.png: SEM MASCARA
+image_94.png: SEM MASCARA
+image_95.png: COM MASCARA
+image_96.png: SEM MASCARA
+image_97.png: SEM MASCARA
+image_98.png: SEM MASCARA
+image_99.png: SEM MASCARA
+['image_0.png', 'image_100.png', 'image_105.png', 'image_107.png', 'image_108.png', 'image_112.png', 'image_114.png', 'image_116.png', 'image_118.png', 'image_119.png', 'image_120.png', 'image_124.png', 'image_126.png', 'image_127.png', 'image_128.png', 'image_130.png', 'image_131.png', 'image_132.png', 'image_134.png', 'image_136.png', 'image_137.png', 'image_138.png', 'image_14.png', 'image_140.png', 'image_142.png', 'image_144.png', 'image_147.png', 'image_148.png', 'image_15.png', 'image_150.png', 'image_151.png', 'image_153.png', 'image_154.png', 'image_155.png', 'image_156.png', 'image_158.png', 'image_159.png', 'image_161.png', 'image_163.png', 'image_165.png', 'image_167.png', 'image_170.png', 'image_171.png', 'image_173.png', 'image_174.png', 'image_175.png', 'image_183.png', 'image_184.png', 'image_185.png', 'image_187.png', 'image_188.png', 'image_19.png', 'image_190.png', 'image_191.png', 'image_195.png', 'image_197.png', 'image_199.png', 'image_2.png', 'image_20.png', 'image_200.png', 'image_202.png', 'image_203.png', 'image_211.png', 'image_212.png', 'image_213.png', 'image_214.png', 'image_215.png', 'image_217.png', 'image_218.png', 'image_23.png', 'image_24.png', 'image_29.png', 'image_3.png', 'image_30.png', 'image_33.png', 'image_35.png', 'image_38.png', 'image_4.png', 'image_40.png', 'image_45.png', 'image_46.png', 'image_48.png', 'image_5.png', 'image_52.png', 'image_55.png', 
+'image_57.png', 'image_6.png', 'image_61.png', 'image_63.png', 'image_65.png', 'image_66.png', 'image_7.png', 'image_71.png', 'image_73.png', 'image_75.png', 'image_79.png', 'image_80.png', 'image_81.png', 'image_83.png', 'image_86.png', 'image_87.png', 'image_89.png', 'image_90.png', 'image_92.png', 'image_93.png', 'image_94.png', 'image_98.png']
+['image_0.png', 'image_1.png', 'image_10.png', 'image_100.png', 'image_101.png', 'image_102.png', 'image_103.png', 'image_105.png', 'image_106.png', 'image_107.png', 'image_108.png', 'image_109.png', 'image_11.png', 'image_110.png', 'image_112.png', 'image_113.png', 'image_114.png', 'image_115.png', 'image_116.png', 'image_117.png', 'image_118.png', 'image_119.png', 'image_12.png', 'image_120.png', 'image_121.png', 'image_122.png', 'image_123.png', 'image_124.png', 'image_125.png', 'image_126.png', 'image_127.png', 'image_128.png', 'image_129.png', 'image_13.png', 'image_130.png', 'image_131.png', 'image_132.png', 'image_133.png', 'image_134.png', 'image_135.png', 'image_136.png', 'image_137.png', 'image_138.png', 'image_139.png', 'image_14.png', 'image_140.png', 
+'image_141.png', 'image_142.png', 'image_144.png', 'image_145.png', 'image_146.png', 'image_147.png', 'image_148.png', 'image_149.png', 'image_15.png', 'image_151.png', 'image_152.png', 'image_153.png', 'image_154.png', 'image_155.png', 'image_156.png', 'image_157.png', 'image_158.png', 'image_159.png', 'image_16.png', 'image_160.png', 'image_161.png', 'image_162.png', 'image_164.png', 'image_165.png', 'image_166.png', 'image_167.png', 'image_169.png', 'image_17.png', 'image_170.png', 'image_171.png', 'image_172.png', 'image_173.png', 'image_174.png', 'image_175.png', 'image_176.png', 'image_177.png', 'image_178.png', 'image_179.png', 'image_18.png', 'image_180.png', 'image_181.png', 'image_182.png', 'image_183.png', 'image_184.png', 'image_185.png', 'image_186.png', 'image_187.png', 'image_189.png', 'image_19.png', 'image_190.png', 'image_191.png', 'image_192.png', 'image_193.png', 'image_194.png', 'image_195.png', 'image_196.png', 'image_197.png', 'image_199.png', 'image_20.png', 'image_200.png', 'image_201.png', 'image_202.png', 'image_203.png', 'image_204.png', 'image_205.png', 'image_206.png', 'image_207.png', 'image_208.png', 'image_209.png', 'image_21.png', 'image_211.png', 'image_212.png', 'image_213.png', 'image_214.png', 'image_215.png', 'image_216.png', 'image_217.png', 'image_218.png', 'image_219.png', 'image_22.png', 'image_23.png', 'image_24.png', 'image_25.png', 'image_26.png', 'image_27.png', 'image_28.png', 'image_29.png', 'image_3.png', 'image_30.png', 'image_31.png', 'image_32.png', 'image_33.png', 'image_34.png', 'image_35.png', 'image_36.png', 'image_37.png', 'image_38.png', 'image_39.png', 'image_40.png', 'image_41.png', 'image_42.png', 'image_43.png', 'image_44.png', 'image_45.png', 'image_46.png', 'image_47.png', 'image_48.png', 'image_49.png', 'image_5.png', 'image_50.png', 'image_51.png', 'image_52.png', 'image_53.png', 'image_55.png', 'image_57.png', 'image_58.png', 'image_59.png', 'image_6.png', 'image_60.png', 'image_61.png', 'image_62.png', 'image_63.png', 'image_64.png', 'image_66.png', 'image_67.png', 'image_68.png', 'image_69.png', 'image_7.png', 'image_70.png', 'image_71.png', 'image_72.png', 'image_73.png', 'image_74.png', 'image_75.png', 'image_76.png', 'image_77.png', 'image_78.png', 'image_79.png', 'image_8.png', 'image_80.png', 'image_81.png', 'image_82.png', 'image_83.png', 'image_85.png', 'image_86.png', 'image_87.png', 'image_88.png', 'image_89.png', 'image_9.png', 'image_90.png', 'image_91.png', 'image_92.png', 'image_93.png', 'image_94.png', 'image_96.png', 'image_97.png', 'image_98.png', 'image_99.png']
+Acurácia: 70.68%

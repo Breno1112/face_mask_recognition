@@ -55,9 +55,6 @@ def classify(img):
     # Mask prediction black and white
     mask_rects_bw = mask_cascade.detectMultiScale(black_and_white, 1.5, 5)
 
-    print("mask_rects: {}".format(mask_rects))
-    print("mask_rects_bw: {}".format(mask_rects_bw))
-
     if len(mask_rects) > 0 or len(mask_rects_bw) > 0:
         if len(mask_rects) > 0:
             (x, y, w, h) = mask_rects[0]
@@ -114,8 +111,8 @@ def getAccuracy():
     # without_mask_count = len(listdir("test-data/without_mask"))
     with_mask = []
     without_mask = []
-    print(with_mask_count)
-    print(without_mask_count)
+    print("test files with mask: {}".format(with_mask_count))
+    print("test files without mask: {}".format(without_mask_count))
     for imagePath in listdir("opencv-files/positive"):
         response = classify(cv2.imread("opencv-files/positive/{}".format(imagePath)))
     # for imagePath in listdir("test-data/with_mask"):

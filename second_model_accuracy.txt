@@ -1,0 +1,1363 @@
+test files with mask: 220
+test files without mask: 220
+mask_rects: [[112  95  54  54]]
+mask_rects_bw: ()
+image_0.png: COM MASCARA
+mask_rects: [[303 391  54  54]
+ [192 448  54  54]]
+mask_rects_bw: ()
+image_1.png: COM MASCARA
+mask_rects: [[553 789  24  24]]
+mask_rects_bw: [[222 697  54  54]]
+image_10.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_100.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_101.png: SEM MASCARA
+mask_rects: [[283 363 410 410]]
+mask_rects_bw: ()
+image_102.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_103.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_104.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_105.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_106.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_107.png: SEM MASCARA
+mask_rects: [[160 163 182 182]]
+mask_rects_bw: ()
+image_108.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_109.png: SEM MASCARA
+mask_rects: [[513 627 410 410]
+ [562 706 273 273]]
+mask_rects_bw: [[ 246 1258   54   54]]
+image_11.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_110.png: SEM MASCARA
+mask_rects: [[ 98 200 122 122]]
+mask_rects_bw: [[ 98 204 122 122]]
+image_111.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_112.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_113.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_114.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[ 79 207 122 122]
+ [ 86 157  54  54]]
+image_115.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_116.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_117.png: SEM MASCARA
+mask_rects: [[147  98  54  54]]
+mask_rects_bw: ()
+image_118.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_119.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[335 501  54  54]
+ [662 459 122 122]]
+image_12.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_120.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_121.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_122.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_123.png: SEM MASCARA
+mask_rects: [[ 84 236 122 122]]
+mask_rects_bw: ()
+image_124.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[139 205  54  54]]
+image_125.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_126.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_127.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_128.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_129.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_13.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_130.png: SEM MASCARA
+mask_rects: [[140 203 122 122]]
+mask_rects_bw: ()
+image_131.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_132.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_133.png: SEM MASCARA
+mask_rects: [[86 87 81 81]]
+mask_rects_bw: ()
+image_134.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_135.png: SEM MASCARA
+mask_rects: [[133 208 122 122]]
+mask_rects_bw: [[ 88 155  54  54]
+ [135 214 122 122]]
+image_136.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_137.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_138.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_139.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_14.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_140.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_141.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_142.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_143.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_144.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_145.png: SEM MASCARA
+mask_rects: [[140  88 122 122]]
+mask_rects_bw: ()
+image_146.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_147.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_148.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_149.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_15.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_150.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_151.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_152.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_153.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_154.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_155.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_156.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[116 313  54  54]]
+image_157.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_158.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_159.png: SEM MASCARA
+mask_rects: [[ 209 1074   54   54]]
+mask_rects_bw: ()
+image_16.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_160.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_161.png: SEM MASCARA
+mask_rects: [[ 91 235  81  81]]
+mask_rects_bw: ()
+image_162.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_163.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_164.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_165.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_166.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_167.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_168.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_169.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_17.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_170.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[124 169  54  54]]
+image_171.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_172.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_173.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_174.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_175.png: SEM MASCARA
+mask_rects: [[104  99  54  54]]
+mask_rects_bw: ()
+image_176.png: COM MASCARA
+mask_rects: [[111 249  81  81]]
+mask_rects_bw: ()
+image_177.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_178.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_179.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_18.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[129  69 122 122]]
+image_180.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_181.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_182.png: SEM MASCARA
+mask_rects: [[142 139  81  81]
+ [ 35 185 122 122]]
+mask_rects_bw: [[ 36 201 122 122]]
+image_183.png: COM MASCARA
+mask_rects: [[ 94 230  81  81]]
+mask_rects_bw: ()
+image_184.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_185.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_186.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_187.png: SEM MASCARA
+mask_rects: [[ 22 191 122 122]]
+mask_rects_bw: ()
+image_188.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_189.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_19.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[122  97 122 122]]
+image_190.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_191.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_192.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_193.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_194.png: SEM MASCARA
+mask_rects: [[ 86 118  81  81]]
+mask_rects_bw: ()
+image_195.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_196.png: SEM MASCARA
+mask_rects: [[102 233 122 122]]
+mask_rects_bw: [[101 240 122 122]]
+image_197.png: COM MASCARA
+mask_rects: [[ 80 158 122 122]]
+mask_rects_bw: ()
+image_198.png: COM MASCARA
+mask_rects: [[253 132 122 122]]
+mask_rects_bw: ()
+image_199.png: COM MASCARA
+mask_rects: [[ 46 839 273 273]]
+mask_rects_bw: [[294 803  81  81]
+ [169 236 273 273]]
+image_2.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_20.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_200.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_201.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_202.png: SEM MASCARA
+mask_rects: [[114 277  81  81]
+ [ 88 232 122 122]]
+mask_rects_bw: ()
+image_203.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_204.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_205.png: SEM MASCARA
+mask_rects: [[ 50 225 122 122]]
+mask_rects_bw: ()
+image_206.png: COM MASCARA
+mask_rects: [[ 55 213 122 122]]
+mask_rects_bw: ()
+image_207.png: COM MASCARA
+mask_rects: [[103 268  81  81]
+ [ 83 223 122 122]]
+mask_rects_bw: ()
+image_208.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_209.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_21.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[ 49 239 122 122]]
+image_210.png: COM MASCARA
+mask_rects: [[168  84  81  81]]
+mask_rects_bw: ()
+image_211.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_212.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_213.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_214.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_215.png: SEM MASCARA
+mask_rects: [[124 304  81  81]]
+mask_rects_bw: ()
+image_216.png: COM MASCARA
+mask_rects: [[210 201  54  54]]
+mask_rects_bw: [[ 34 212 122 122]]
+image_217.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_218.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_219.png: SEM MASCARA
+mask_rects: [[320 459 273 273]
+ [662 511  54  54]]
+mask_rects_bw: ()
+image_22.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_23.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_24.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_25.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_26.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_27.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_28.png: SEM MASCARA
+mask_rects: [[500 653  54  54]]
+mask_rects_bw: ()
+image_29.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: [[536 158 182 182]]
+mask_rects_bw: [[287 148  81  81]]
+image_3.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[138 175  54  54]]
+image_30.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_31.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_32.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_33.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_34.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_35.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_36.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_37.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_38.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: [[211 191 122 122]]
+mask_rects_bw: ()
+image_39.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_4.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_40.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[245 306  54  54]
+ [230 723  54  54]]
+image_41.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_42.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[785 663  54  54]]
+image_43.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_44.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_45.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[213 379  81  81]]
+image_46.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[1144  826   81   81]
+ [1013  884   54   54]]
+image_47.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_48.png: SEM MASCARA
+mask_rects: [[302 171 410 410]]
+mask_rects_bw: ()
+image_49.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[330 487  81  81]]
+image_5.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_50.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_51.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_52.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_53.png: SEM MASCARA
+mask_rects: [[ 94 119  81  81]]
+mask_rects_bw: ()
+image_54.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_55.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_56.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_57.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_58.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_59.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_6.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_60.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[406 549 122 122]]
+image_61.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_62.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_63.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_64.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[819 447  81  81]]
+image_65.png: COM MASCARA
+mask_rects: [[332 275 182 182]]
+mask_rects_bw: ()
+image_66.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_67.png: SEM MASCARA
+mask_rects: [[722 145 615 615]]
+mask_rects_bw: ()
+image_68.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_69.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_7.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: [[177 203 273 273]]
+mask_rects_bw: ()
+image_70.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: [[462 691  54  54]
+ [801 540  54  54]]
+image_71.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_72.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_73.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_74.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_75.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_76.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_77.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_78.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_79.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_8.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_80.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: [[1039  143  122  122]]
+mask_rects_bw: ()
+image_81.png: COM MASCARA
+mask_rects: [[251 154 182 182]]
+mask_rects_bw: ()
+image_82.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: [[449 589 182 182]]
+mask_rects_bw: [[936 576  54  54]]
+image_83.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_84.png: SEM MASCARA
+mask_rects: [[253 596 410 410]]
+mask_rects_bw: ()
+image_85.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_86.png: SEM MASCARA
+mask_rects: [[216 140 273 273]]
+mask_rects_bw: ()
+image_87.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_88.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[272 513 122 122]
+ [179 300  81  81]]
+image_89.png: COM MASCARA
+mask_rects: [[187 173  81  81]]
+mask_rects_bw: ()
+image_9.png: COM MASCARA
+mask_rects: [[115 260 182 182]]
+mask_rects_bw: ()
+image_90.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_91.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_92.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_93.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[694 698  54  54]]
+image_94.png: COM MASCARA
+mask_rects: [[266 407  54  54]
+ [303 547 410 410]]
+mask_rects_bw: [[312 538 410 410]]
+image_95.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_96.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_97.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_98.png: SEM MASCARA
+mask_rects: [[185 114 122 122]]
+mask_rects_bw: [[185 122 122 122]]
+image_99.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_0.png: SEM MASCARA
+mask_rects: [[351 230 410 410]]
+mask_rects_bw: ()
+image_1.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_10.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_100.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_101.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_102.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_103.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_104.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_105.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_106.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_107.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_108.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_109.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_11.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_110.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[313 328 122 122]]
+image_111.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_112.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[224 488  81  81]]
+image_113.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_114.png: SEM MASCARA
+mask_rects: [[165 279 273 273]]
+mask_rects_bw: ()
+image_115.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_116.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_117.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_118.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_119.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_12.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_120.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_121.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_122.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_123.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[497 248  54  54]]
+image_124.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_125.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[124 325 122 122]]
+image_126.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_127.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_128.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_129.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_13.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_130.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_131.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[299 484  81  81]
+ [161 300 122 122]
+ [161 277 273 273]]
+image_132.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_133.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_134.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_135.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_136.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_137.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_138.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_139.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_14.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_140.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_141.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_142.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[352 465  81  81]
+ [258 529  54  54]]
+image_143.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_144.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_145.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_146.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_147.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_148.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_149.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_15.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_150.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_151.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_152.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_153.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_154.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_155.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_156.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[313 500  81  81]
+ [282 100 182 182]]
+image_157.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_158.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_159.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_16.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_160.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_161.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_162.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_163.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_164.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[337 334 122 122]
+ [116 392  81  81]
+ [374 430  54  54]]
+image_165.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_166.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_167.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_168.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[ 62 271 182 182]]
+image_169.png: COM MASCARA
+mask_rects: [[376 314 122 122]]
+mask_rects_bw: ()
+image_17.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_170.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_171.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[214 520  54  54]]
+image_172.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_173.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_174.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_175.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_176.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_177.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_178.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_179.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_18.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[404 338  54  54]]
+image_180.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_181.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_182.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_183.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_184.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_185.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_186.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_187.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_188.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_189.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_19.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_190.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_191.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_192.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_193.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_194.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_195.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_196.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_197.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_198.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_199.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_2.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_20.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[108 311  54  54]]
+image_200.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_201.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_202.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_203.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_204.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[223 298 182 182]]
+image_205.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_206.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_207.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[190 293  54  54]]
+image_208.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_209.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_21.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_210.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_211.png: SEM MASCARA
+mask_rects: [[ 31 361 122 122]]
+mask_rects_bw: [[138 387  54  54]]
+image_212.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_213.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_214.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_215.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_216.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_217.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_218.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_219.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_22.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_23.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_24.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_25.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_26.png: SEM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: [[586 634  81  81]]
+image_27.png: COM MASCARA
+libpng warning: iCCP: known incorrect sRGB profile
+mask_rects: ()
+mask_rects_bw: ()
+image_28.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_29.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_3.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_30.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_31.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_32.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[292 234  54  54]]
+image_33.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[218 174 122 122]]
+image_34.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_35.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[136 347 182 182]]
+image_36.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_37.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_38.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_39.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_4.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_40.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_41.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_42.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_43.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[353 333  81  81]]
+image_44.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_45.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_46.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[ 44 372 122 122]]
+image_47.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_48.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_49.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[180 213  54  54]]
+image_5.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_50.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[323 193 122 122]]
+image_51.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_52.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[179 327  81  81]]
+image_53.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: [[199 342  54  54]]
+image_54.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_55.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_56.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[ 47 146  54  54]]
+image_57.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_58.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_59.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_6.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_60.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_61.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_62.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_63.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[157 291 182 182]
+ [146 298 273 273]]
+image_64.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_65.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_66.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_67.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_68.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_69.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_7.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_70.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[472 160 122 122]]
+image_71.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_72.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_73.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_74.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_75.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_76.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_77.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_78.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_79.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_8.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_80.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_81.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_82.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_83.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_84.png: SEM MASCARA
+mask_rects: [[132 302 122 122]]
+mask_rects_bw: [[366 352  54  54]]
+image_85.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_86.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_87.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_88.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_89.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_9.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_90.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_91.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_92.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_93.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_94.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: [[140 375  54  54]]
+image_95.png: COM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_96.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_97.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_98.png: SEM MASCARA
+mask_rects: ()
+mask_rects_bw: ()
+image_99.png: SEM MASCARA
+['image_0.png', 'image_1.png', 'image_10.png', 'image_102.png', 'image_108.png', 'image_11.png', 'image_111.png', 'image_115.png', 'image_118.png', 'image_12.png', 'image_124.png', 'image_125.png', 'image_131.png', 'image_134.png', 'image_136.png', 'image_146.png', 'image_157.png', 'image_16.png', 'image_162.png', 'image_171.png', 'image_176.png', 'image_177.png', 'image_180.png', 'image_183.png', 'image_184.png', 'image_188.png', 'image_190.png', 'image_195.png', 'image_197.png', 'image_198.png', 'image_199.png', 'image_2.png', 'image_203.png', 'image_206.png', 'image_207.png', 'image_208.png', 'image_210.png', 'image_211.png', 'image_216.png', 'image_217.png', 'image_22.png', 'image_29.png', 'image_3.png', 'image_30.png', 'image_39.png', 'image_41.png', 'image_43.png', 'image_46.png', 'image_47.png', 'image_49.png', 'image_5.png', 'image_54.png', 'image_61.png', 'image_65.png', 'image_66.png', 'image_68.png', 'image_70.png', 'image_71.png', 'image_81.png', 'image_82.png', 'image_83.png', 'image_85.png', 'image_87.png', 'image_89.png', 'image_9.png', 'image_90.png', 'image_94.png', 'image_95.png', 'image_99.png']
+['image_0.png', 'image_10.png', 'image_100.png', 'image_101.png', 'image_102.png', 'image_103.png', 'image_104.png', 'image_105.png', 'image_106.png', 'image_107.png', 'image_108.png', 'image_109.png', 'image_11.png', 'image_110.png', 'image_112.png', 'image_114.png', 'image_116.png', 'image_117.png', 'image_118.png', 'image_119.png', 'image_12.png', 'image_120.png', 'image_121.png', 'image_122.png', 'image_123.png', 'image_125.png', 'image_127.png', 'image_128.png', 'image_129.png', 'image_13.png', 'image_130.png', 'image_131.png', 'image_133.png', 'image_134.png', 'image_135.png', 'image_136.png', 'image_137.png', 'image_138.png', 'image_139.png', 'image_14.png', 'image_140.png', 'image_141.png', 'image_142.png', 'image_144.png', 'image_145.png', 'image_146.png', 'image_147.png', 'image_148.png', 'image_149.png', 'image_15.png', 'image_150.png', 'image_151.png', 'image_152.png', 'image_153.png', 'image_154.png', 'image_155.png', 'image_156.png', 'image_158.png', 'image_159.png', 'image_16.png', 'image_160.png', 'image_161.png', 'image_162.png', 'image_163.png', 'image_164.png', 'image_166.png', 'image_167.png', 'image_168.png', 'image_170.png', 'image_171.png', 'image_173.png', 'image_174.png', 'image_175.png', 'image_176.png', 'image_177.png', 'image_178.png', 'image_179.png', 'image_18.png', 'image_181.png', 'image_182.png', 'image_183.png', 'image_184.png', 'image_185.png', 'image_186.png', 'image_187.png', 'image_188.png', 'image_189.png', 'image_19.png', 'image_190.png', 'image_191.png', 'image_192.png', 'image_193.png', 'image_194.png', 'image_195.png', 'image_196.png', 'image_197.png', 'image_198.png', 'image_199.png', 'image_2.png', 'image_20.png', 'image_201.png', 'image_202.png', 'image_203.png', 'image_204.png', 'image_206.png', 'image_207.png', 'image_209.png', 'image_21.png', 'image_210.png', 'image_211.png', 'image_213.png', 'image_214.png', 'image_215.png', 'image_216.png', 'image_217.png', 'image_218.png', 'image_219.png', 'image_22.png', 'image_23.png', 'image_24.png', 'image_25.png', 'image_26.png', 'image_28.png', 'image_29.png', 'image_3.png', 'image_30.png', 'image_31.png', 'image_32.png', 'image_35.png', 'image_37.png', 'image_38.png', 'image_39.png', 'image_4.png', 'image_40.png', 'image_41.png', 'image_42.png', 'image_43.png', 'image_45.png', 'image_46.png', 'image_48.png', 'image_49.png', 'image_50.png', 'image_52.png', 'image_55.png', 'image_56.png', 'image_58.png', 'image_59.png', 'image_6.png', 'image_60.png', 'image_61.png', 'image_62.png', 'image_63.png', 'image_65.png', 'image_66.png', 'image_67.png', 'image_68.png', 'image_69.png', 'image_7.png', 'image_70.png', 'image_72.png', 'image_73.png', 'image_74.png', 'image_75.png', 'image_76.png', 'image_77.png', 'image_78.png', 'image_79.png', 'image_8.png', 'image_80.png', 'image_81.png', 'image_82.png', 'image_83.png', 'image_84.png', 'image_86.png', 'image_87.png', 'image_88.png', 'image_89.png', 'image_9.png', 'image_90.png', 'image_91.png', 'image_92.png', 'image_93.png', 'image_94.png', 'image_96.png', 'image_97.png', 'image_98.png', 'image_99.png']
+Acurácia: 58.18%
