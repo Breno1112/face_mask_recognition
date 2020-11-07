@@ -79,7 +79,7 @@ def classify(img):
     elif len(faces) > 0 or len(faces_bw) > 0:
         return CONST_WITHOUT_MASK
     else:
-        return CONST_FACE_NOT_FOUND
+        return CONST_WITHOUT_MASK
 
 def detectSingleImage(imgPath):
     img = cv2.imread(imgPath)
@@ -108,19 +108,25 @@ def detectVideo():
     cv2.destroyAllWindows()
 
 def getAccuracy():
-    with_mask_count = len(listdir("test-data/with_mask"))
-    without_mask_count = len(listdir("test-data/without_mask"))
+    with_mask_count = len(listdir("opencv-files/positive"))
+    without_mask_count = len(listdir("opencv-files/negative"))
+    # with_mask_count = len(listdir("test-data/with_mask"))
+    # without_mask_count = len(listdir("test-data/without_mask"))
     with_mask = []
     without_mask = []
     print(with_mask_count)
     print(without_mask_count)
-    for imagePath in listdir("test-data/with_mask"):
-        response = classify(cv2.imread("test-data/with_mask/{}".format(imagePath)))
+    for imagePath in listdir("opencv-files/positive"):
+        response = classify(cv2.imread("opencv-files/positive/{}".format(imagePath)))
+    # for imagePath in listdir("test-data/with_mask"):
+    #     response = classify(cv2.imread("test-data/with_mask/{}".format(imagePath)))
         print("{}: {}".format(imagePath, response))
         if response == CONST_WITH_MASK:
             with_mask.append(imagePath)
-    for imagePath in listdir("test-data/without_mask"):
-        response = classify(cv2.imread("test-data/without_mask/{}".format(imagePath)))
+    for imagePath in listdir("opencv-files/negative"):
+        response = classify(cv2.imread("opencv-files/negative/{}".format(imagePath)))
+    # for imagePath in listdir("test-data/without_mask"):
+    #     response = classify(cv2.imread("test-data/without_mask/{}".format(imagePath)))
         print("{}: {}".format(imagePath, response))
         if response == CONST_WITHOUT_MASK:
             without_mask.append(imagePath)
